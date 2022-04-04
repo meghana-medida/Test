@@ -1,0 +1,57 @@
+1) Durga Prasad Bollu->Email address->durgaprasadbollu7@gmail.com,College Name->Vizag Institute of Technology->Degree ->B.Tech,Branch->Mechanical,CGPA->75%,Year of Graduation->2021,City->Vizianagaram
+
+2)Meghana Nyamanahalli Lokesh->Email address->meghanaanu@gmail.com,College Name->S. J. B.Institute of Technology->Degree ->B.E,Branch->Computer science,CGPA->6.72,Year of Graduation->2021,City->Tenali
+
+3)Akhil Pokuri ->Email address->pokuriakhil@gmail.com,College Name->Veltech Dr. RR & Dr.SR Institute of Science and Technology,Degree ->B.Tech,Branch->Mechanical Engineering,CGPA->8.2,Year of Graduation->2018,City->Vijayawada
+
+4)Anil Jangili ->Email address->aniljj96@gmail.com,College Name->Visvesvaraya College of Engineering,Degree ->B.Tech,Branch->ECE,CGPA->68%,Year of Graduation->2017,City->Hyderabad.
+
+5)Santhosh Jangili ->Email address->santhoshjgl624@gmail.com,College Name->Sri Chaitanya Engineering and Technology,Degree ->B.Tech,Branch->EEE,CGPA->60%,Year of Graduation->2018,City->Hyderabad
+
+6)Madhupriya Thadibona->Email address->t.madhupriya2610@gmail.com,College Name->A.G.K College of Engineering and Technology,Degree ->B.Tech,Branch->Computer science,CGPA->62.44%,Year of Graduation->2019,City->manthena,(v) Kankipadu(m)Krishna(dt)
+
+7)Baby Priyanka chelley->Email address->babypriyankametla@gmail.com,College Name->Gudlavalleru Engineering college,Degree ->B.Tech,Branch->EEE,CGPA->     ,Year of Graduation->2015,City->Vijayawada.
+
+8)Shariefuddin Noor Basha->Email address->hrshariefuddin@gmail.com,College Name->CR Reddy  Engineering College,Degree ->B.Tech,Branch->Mechanical,CGPA-> 7.01,Year of Graduation->2020,City->Musunuru
+
+9)Satya Ananda Babu->Email address->satyalaananda@gmail.com,College Name->PSCMR College of Engineering and Technology,Degree ->B.Tech,Branch->ECE,CGPA->      ,Year of Graduation->2015,city->Vijayawada.
+
+10)Poojith ->Email address->dasaripoojith97@gmail.com,College Name->            ,Degree ->B.Tech,Branch->Mechanical,CGPA->          ,Year of Graduation->2020,city->
+
+11)Chunduru Ravindra->Email address->ravindrachunduru777@gmail.com,College Name->Nalanda Institute of Engineering and Technology,Degree ->B.Tech,Branch->Mechanical,CGPA->    ,Year of Graduation->2020,city->Guntur
+
+12)Ajay Pavan gurram->Email address->ajaypavans@gmail.com,College Name->Gudlavalleru Engineering College,Degree->B.Tech,Branch->EEE,CGPA->       ,Year of graduation->2020,city->Vijayawada.
+
+13) Haseena Mohammed->Email address->hasee786naa@gmail.com,College Name->Krishna University,Degree->MCA,Branch->     ,CGPA->80%,Year of graduation->2022,city->Machilipatnam.
+
+14)Hassan Basha->Email address->skhassanbasha9@gmail.com,College Name->Andhra Loyola College,Degree->MCA,Branch-> computer applications,CGPA->89%,Year of graduation->2022,city->Nellore.
+
+15)pratap Damodara->Email address->chinnadamodaraMD@gmail.com,College Name->Andhra Loyola College,Degree->MCA,Branch-> computer applications,CGPA->82%,Year of graduation->2022,city->Vijayawada.
+
+16)Mohana BalaKrishna RajuSujanamulk->Email address->Balakrrishna25051996@gmail.com,College Name->DNR Engineering college,Degree->B.Tech,Branch->Civil,CGPA->    ,Year of graduation->2017,city->Vijayawada.
+
+
+17)Gopal Krishna Singam ->Email address->singamgopalakrishna22@gmail.com,College Name->Sree Dattha group of Institutions,Degree->B.Tech,Branch->EEE,CGPA->      ,Year of graduation->2021,city->Nalgonda
+
+
+18)Vemula Deepika->Email address->vemuladeepika2000@gmail.com,College Name->Nigama engineering college,Degree->B.Tech,Branch->CSE,CGPA->     ,Year of graduation->2021,city->Sircilla.
+
+
+
+19)Manikanta Lokesh Devisetti->Email address->manikantadevesetti5@gmail.com,College Name->Sree Vahini Institute of Science and Technology,Degree->B.Tech,Branch->CSE,CGPA->    ,Year of graduation->2020,city->Tiruvuru.
+
+
+20)Hari Vishnu Dadi-> Email Adress ->harivishnudadi006@gmail.com,College Name->DJR College of Engineering and Technology,degree->B.Tech,Branch->Mechanical,CGPA->          ,Year of graduation->2021,city->West Godavari.
+
+
+21)Laxmi Prasad Thode->Email Adress ->thodelaxmiprasad@gmail.com,college Name->Anurag College of Engineering,degree->B.Tech,Branch->Mechanical,CGPA->        ,Year of graduation->2021,city->Bachupally, Hyderabad.
+
+
+
+
+
+
+
+
+
+
